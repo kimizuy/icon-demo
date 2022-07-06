@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.Icons-wrapper {
+  display: flex;
+  padding: 20px;
+}
+
+.Icon-orange {
+  stroke: orange;
+}
